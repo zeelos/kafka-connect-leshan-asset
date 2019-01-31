@@ -4,7 +4,7 @@
 
     <groupId>io.zeelos.leshan.kafka.connect</groupId>
     <artifactId>kafka-connect-leshan-asset</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>kafka-connect-leshan-asset</name>
@@ -27,10 +27,10 @@
     </developers>
 
     <properties>
-        <kafka.version>2.0.0-cp1</kafka.version>
-        <confluent.version>5.0.0</confluent.version>
+        <kafka.version>2.1.0-cp1</kafka.version>
+        <confluent.version>5.1.0</confluent.version>
         <leshan-avro-shema.version>0.1-SNAPSHOT</leshan-avro-shema.version>
-        <orientdb.gremlin.version>3.0.6</orientdb.gremlin.version>
+        <orientdb.gremlin.version>3.0.14</orientdb.gremlin.version>
         <junit.version>4.12</junit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
