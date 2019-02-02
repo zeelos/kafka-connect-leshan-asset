@@ -16,6 +16,7 @@ bin/
 
 # Visual Studio Code #
 .vscode/
+.factorypath
 
 # Package Files #
 *.jar
