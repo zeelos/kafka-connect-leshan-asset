@@ -31,7 +31,7 @@
         <confluent.version>5.2.2</confluent.version>
         <leshan-avro-shema.version>0.2-SNAPSHOT</leshan-avro-shema.version>
         <orientdb.gremlin.version>3.0.20</orientdb.gremlin.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
